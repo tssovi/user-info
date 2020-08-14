@@ -25,6 +25,8 @@
 >
 
 **Project Execution Commands**
+> **`git clone git clone https://github.com/tssovi/user-info.git `**\
+> **`cd user-info`**\
 > **`pip install -r requirements.txt`**\
 > **`python manage.py makemigrations`**\
 > **`python manage.py migrate`**\
